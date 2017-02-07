@@ -1,0 +1,6 @@
+namespace Utils;
+
+class FileUt
+{
+	
+}
